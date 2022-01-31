@@ -1,0 +1,227 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+body {background-color: ;
+    background-color: #f5f7fa;
+    padding: 20px;
+    font-family: Montserrat;
+    }
+.main_container {
+    background-color: white;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    }
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    }
+.about_me_container {
+    padding-left: 90px;
+    padding-right: 120px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    }
+.Contacts {
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    }
+.Contacts_zagolovok {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    }
+.tel_mail {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffffff;
+    }
+.CE {
+    font-size: 14px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 24px;
+    padding-right: 10px;
+    }
+.Tech_Skills_zagolovok {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+    padding-left: 40px;
+    padding-top: 54px;
+    padding-right: 40;
+    padding-bottom: 20px;
+    }
+    
+.Tech_Skills_element {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-left: 54px;
+    }
+    .Tech_Skills_text {
+        color:#7f858c;
+    }
+.Soft_Skills_zagolovok {
+    margin-top: 52px;
+    margin-left: 41px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom: 17px;
+    color: white;
+    }
+.Soft_Skills_element {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-left: 54px;
+    }
+.Soft_Skills_text {
+    color: #7f858c;
+    }
+.proff {
+    
+    color: #0B0B61;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    }
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    color: #0B0B61;
+    }
+.pro_menya {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6f6f6f;
+    margin-top: 24px;
+    }
+    .info_container {
+        margin-bottom: 60px;
+    }
+.menu123 {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 12px;
+    color: #0B0B61;
+    }
+.projects-link {
+    color: #6f6f6f;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    }
+.teh_name {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6f6f6f;
+    }
+.dots {
+    color:  #6f6f6f;
+    font-weight: 300;
+    }
+.li1 {
+    font-weight: 700;
+    }    
+.progect_container {
+    margin-bottom: 52px;
+    }
+.work_experience {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 18px;
+    }
+.company_name {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ff6b08;
+    }
+.period {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #b4b4b4;
+    }
+.obyazannosti {
+    margin-top: 17PX;
+    margin-bottom: 24px;
+    color: #595959;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    }
+.black {
+    color: black;
+}
+.vuz_name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color:  #ff6b08;
+    }
+.vuz_spec {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    }
+    
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
