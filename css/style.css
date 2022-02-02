@@ -9,10 +9,19 @@ body {
   padding: 20px;
   font-family: Montserrat;
 }
+
+.dots {
+  display: none;
+}
+
+.my_foto {
+  width: 270px;
+  height: 400px;
+}
 .main_container {
   background-color: white;
   display: flex;
-  max-width: 80vmax;
+  max-width: 80%vh;
   margin: 0 auto;
 }
 .sidebar {
@@ -22,10 +31,7 @@ body {
   padding-bottom: 40px;
 }
 .about_me_container {
-  padding-left: 90px;
-  padding-right: 120px;
-  padding-top: 110px;
-  padding-bottom: 110px;
+  padding: 10px;
 }
 .Contacts {
   padding-top: 60px;
@@ -132,10 +138,7 @@ body {
   line-height: 24px;
   color: #6f6f6f;
 }
-.dots {
-  color: #6f6f6f;
-  font-weight: 300;
-}
+
 .li1 {
   font-weight: 700;
 }
@@ -182,4 +185,24 @@ body {
   font-weight: 400;
   line-height: 24px;
   color: #595959;
+}
+
+@media (min-width: 670px) {
+  .about_me_container {
+    padding-left: 90px;
+    padding-right: 120px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+  }
+
+  .my_foto {
+    width: 370px;
+    height: 500px;
+  }
+
+  .dots {
+    display: block;
+    color: #6f6f6f;
+    font-weight: 300;
+  }
 }
